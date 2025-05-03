@@ -1,0 +1,210 @@
+🧠 70 Medium-Level React Machine Coding Questions (A-Rank Level)
+🔷 1–10: useEffect, Debouncing, API, Basic State Sync
+GitHub User Search with Debounced API Call
+
+Weather App using OpenWeatherMap API
+
+Dark Mode Persistence via localStorage
+
+Real-time Clock with Pause/Resume (using useEffect)
+
+Online/Offline Detector Component
+
+Scroll Position Tracker (Show % scrolled)
+
+Auto-save Form Data to localStorage
+
+Network Request Retry Logic (3 tries on failure)
+
+Paginated List with Load More Button
+
+Timer Sync Between Tabs (multi-tab sync)
+
+🔷 11–20: Controlled Modals, Nested State, Context API
+Multi-modal Manager (Only one modal visible at a time)
+
+Custom Toast Manager (Queue & Auto-dismiss)
+
+Shopping Cart with Global Context & Reducer
+
+Lightweight Notification System via Context API
+
+Modal Form with Dynamic Field Validation
+
+Nested Comment Tree Renderer (Recursive rendering)
+
+Form Wizard with Step Validation & Global Context
+
+Currency Converter (real-time rates API)
+
+Chat UI with Chat Bubbles and Scroll-to-Bottom
+
+Multi-checkbox Dependency Logic (Parent-Child Sync)
+
+🔷 21–30: Component Composition, Smart/Dumb Components
+Editable Table with Inline Edit + Save/Cancel
+
+Dynamic Tabs from JSON Config + Router Sync
+
+Collapsible Sidebar Menu with Nested Routes
+
+Notification Bell with Mark-as-Read Per Notification
+
+Reusable Card Grid with Filters and Sorting
+
+Drag-and-Drop List Reorderer (React DnD)
+
+Poll App – Vote & Show Percentage Bar
+
+Select with Search, Keyboard Navigation
+
+Carousel with Swipe, Autoplay & Manual Control
+
+Form Generator from JSON Schema
+
+🔷 31–40: File Uploads, Media, Cloud, Real-time
+Image Upload + Preview + Size Restriction
+
+Profile Image Cropper (using canvas)
+
+Audio Player with Progress, Play, Pause
+
+Live Search Suggestions from API
+
+Drag and Drop File Upload with Size Validation
+
+Download Button (Blob from API response)
+
+Auto-save Draft to Cloud on Pause
+
+QR Code Generator from Input
+
+PDF Viewer with Page Navigation
+
+Speech-to-Text Textarea using Web Speech API
+
+🔷 41–50: Performance, Memoization, Pagination
+Virtualized Long List (1000+ items using react-window)
+
+Search Result Pagination with Dynamic URL params
+
+Memoized List Rendering with Expensive Calculation
+
+Load More Infinite Scroll with IntersectionObserver
+
+Multi-step Booking Form with Data Memoization
+
+Re-render Visualizer (highlight updated components)
+
+API Data Caching using SessionStorage
+
+Lazy Image Loader with Blur Effect
+
+Debounced Multi-Filter Product Table
+
+Undo/Redo Functionality for Text Editor
+
+🔷 51–60: Advanced Hooks, Routing, Code Splitting
+Custom useDebounce, useThrottle Hooks
+
+Custom useForm Hook with Field Registration
+
+Lazy Load Routes with Suspense Fallbacks
+
+404 Page + Protected Routes with Redirect
+
+Multi-level Breadcrumbs from React Router
+
+Route-based Modals using useLocation
+
+Deep Link Product Page (useParams + fetch + cache)
+
+Hook for Click Outside Detection
+
+Image Gallery with Lightbox + Routing
+
+File Viewer Modal Based on URL Query Params
+
+🔷 61–70: Business Logic, Edge Case Handling, UX Polish
+Bank Transfer UI – From/To Account Logic
+
+Discount Logic Component (Price + Offer Validation)
+
+Dynamic Quiz App with Score & Timer
+
+Calendar View with Events + Drag Event
+
+Multiselect with Select All + Remove Chip
+
+Dynamic Table Column Hide/Show
+
+Sticky Header on Scroll + Hide on Scroll Down
+
+Editable User Profile with Cancel/Save Draft
+
+Reorderable Section Layout Builder
+
+Product Variant Selector (Size, Color, Stock Match)
+
+🔸 71–80: Accessibility, Animations, GSAP, UX Enhancements
+Accessible Accordion with Keyboard Navigation
+
+Custom Animated Toggle Switch using Framer Motion
+
+GSAP-powered Hero Section with Scroll Animations
+
+Dark/Light Mode with Smooth Theme Transitions
+
+Toast Notification Queue with Slide Animations
+
+Progress Bar that Animates on Scroll Reveal
+
+Accessible Modal with Trap Focus
+
+Sticky Tab Bar with Scroll Sync Sections
+
+Interactive Rating Component with Hover Feedback
+
+Reveal-on-Scroll Portfolio Grid
+
+🔸 81–90: Forms, Validation, Auth UX
+Multi-step Signup Form with Validation per Step
+
+Form with Dynamic Fields (Add/Remove Inputs)
+
+Login Form with "Show Password" Toggle
+
+2FA Code Entry UI (One digit per box)
+
+Password Strength Meter with Visual Feedback
+
+Form Validation using Yup + react-hook-form
+
+Auto Focus Field Navigation (OTP entry fields)
+
+Auto-save Resume Builder (Editable Sections)
+
+Editable Address Book with Add/Edit/Delete
+
+Reset Password Flow UI (with validation)
+
+🔸 91–100: Advanced Tables, Charts, Error Handling, Dev Features
+Data Table with Column Filters, Sorting, Pagination
+
+Column Drag-and-Drop Table Builder
+
+Bar/Line Chart with Dynamic Dataset Toggle
+
+CSV Import Preview + Field Mapping UI
+
+Download Table as CSV / Excel
+
+Global Error Boundary with Custom UI
+
+Retryable API Call Component with Backoff
+
+Dev Inspector Tool – Show Props, State in UI
+
+Searchable Tree View with Expand/Collapse
+
+JSON Viewer with Expand/Collapse Nodes

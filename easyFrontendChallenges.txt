@@ -1,0 +1,170 @@
+✅ 50 Easy-Level React Machine Coding Questions (High Quality – Training Arc Edition)
+🔹 Set 1: Fundamentals of State, Props, JSX, Basic Logic
+Click Counter with Limits – Increment/Decrement with min/max boundaries
+
+Like/Unlike Toggle Button – Change icon + count
+
+Star Rating Component – 5 stars, click to select rating
+
+Traffic Light Simulator – Auto-cycle between red, yellow, green using setInterval
+
+Profile Card Renderer – Props-based rendering of user info
+
+Show/Hide Password – Input with toggle + show icon
+
+Todo List (No API) – Add, complete, delete
+
+Live Character Counter – Textarea with limit and color change if overflow
+
+Checkbox Group Counter – Show how many boxes are selected
+
+Search Filter (Local List) – Filter list based on input text (case-insensitive)
+
+🔹 Set 2: Forms, Controlled Components, Input Handling
+Login Form with Inline Validation – Email + password + validation messages
+
+Signup Form with Confirm Password Match Check
+
+Disable Submit Button Until All Fields Filled
+
+Dropdown + Conditional Input – Show/hide field based on selection
+
+Phone Number Formatter – Auto-format like (123) 456-7890
+
+Live Form Preview – Preview input below in real-time
+
+Gender + Country Select + Summary Renderer
+
+Multi-step Form (3 steps) – Basic stepper without routing
+
+Color Picker with Preview Box
+
+Age Calculator – Select DOB → show current age
+
+🔹 Set 3: Lists, Keys, Basic Mapping, Conditional Rendering
+Simple Contact List with Search
+
+List Renderer from JSON Array (id, name, role)
+
+Accordion UI – Expand/collapse sections (one open at a time)
+
+FAQ Toggle – Multiple open allowed
+
+User Tags Input – Type name → press Enter → show as chips
+
+Notification Badge – Show count, clear all
+
+Show More / Show Less (Expandable Content)
+
+List with Delete Button Per Item
+
+Bookmark List (Add, Remove, Save)
+
+Filter by Category Buttons (like All, Tech, Art, etc.)
+
+🔹 Set 4: Timers, Intervals, Lifecycle Basics
+Digital Clock (Live)
+
+Countdown Timer with Start/Pause/Reset
+
+Pomodoro Timer (25 mins work / 5 mins break)
+
+Typing Speed Tester – Count words typed in 30 seconds
+
+Stopwatch – Start/Pause/Reset + milliseconds
+
+Auto Image Slider – Change image every 3 seconds
+
+Manual Slider with Prev/Next Buttons
+
+Random Quote Generator on Button Click
+
+Scroll Progress Bar (Top of Page)
+
+Auto Typing Text Animation – Show one char at a time
+
+🔹 Set 5: Reusability, Hooks, Minor Performance
+Reusable Button with Variants (Primary, Secondary)
+
+Custom Hook – useToggle – Reuse toggle logic
+
+Checkbox Select All / Deselect All
+
+Controlled Modal Component
+
+Dynamic Form Renderer from Config JSON
+
+Copy to Clipboard + Toast Message
+
+Accordion with Controlled State (Only One Open)
+
+Tabs Component with Dynamic Children
+
+Dark Mode Toggle with CSS Class Switch
+
+Scroll to Top Button (appears after 300px scroll)
+
+🔹 Set 6: API Fetching, useEffect, Lifecycle
+Fetch & Display Posts from JSONPlaceholder API
+
+Loader while fetching + Error Handling
+
+Search GitHub Users (fetch on Enter key)
+
+Auto-fetch Weather by City (onChange with debounce)
+
+Show User Details on Click from List (conditional render + API)
+
+Auto-refresh Data Every 10 Seconds (via useEffect)
+
+Cleanup Example – Show/Hide Timer Component
+
+Offline/Online Detection using navigator.onLine + Effect
+
+🔹 Set 7: LocalStorage, Context, Composition
+Todo App with LocalStorage Persistence
+
+Theme Selector (dark/light) with Context API
+
+Login State using Context Provider (no auth logic, just toggle)
+
+User Preferences Saver (language, layout, etc.) in localStorage
+
+Reusable Card Component with Dynamic Props Children
+
+Settings Panel with Global State (via Context)
+
+Custom useLocalStorage Hook
+
+🔹 Set 8: Debounce, Routing, Performance
+Search Bar with Debounced Input (500ms)
+
+Image Gallery with Filter and Lazy Load
+
+Simple Blog with React Router (Home, Post, About)
+
+Route Params Example – Show Post Detail via ID
+
+React.memo Example – Prevent Unnecessary Renders
+
+useCallback Hook – Expensive Function Optimization
+
+404 Page Handling using React Router
+
+Nested Routes Example
+
+Browser Title Change on Route Change (via useEffect)
+
+🔹 Set 9: Edge / Bonus Interview Concepts
+Accordion using Composition Pattern
+
+Controlled Modal using Portal
+
+Dynamic Fields in Form (Add/Remove Inputs)
+
+Multi-select Dropdown (Chip Style)
+
+Scroll Position Tracker
+
+Page Visit Counter using sessionStorage
+

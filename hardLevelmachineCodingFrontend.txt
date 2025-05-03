@@ -1,0 +1,205 @@
+ 1–10: High-Level Custom Components with Deep Control
+Custom Virtualized Infinite Scroll Table with Nested Rows
+
+Drag-and-Drop Kanban Board with Persistent State
+
+Dynamic Form Builder from JSON Schema with Validation
+
+Resizable, Draggable Dashboard Widgets (like Notion/Retool)
+
+Rich Text Editor with Markdown Preview and Plugin Support
+
+Gantt Chart Timeline UI with Zoom & Scroll Sync
+
+Multi-file Uploader with Preview, Compression, and Retry
+
+Fullscreen Image Viewer with Zoom, Rotate, and Carousel
+
+Resizable Split Pane Layout (Like VS Code Panel)
+
+Tagging System with Auto-suggestions, Creatable Tags, and Keyboard Support
+
+⚡ 11–20: System Features, Architecture, and State Management
+Custom Notification System with Topic-wise Subscriptions
+
+Redux Toolkit Async Slice with Cancelable Fetch Queues
+
+Global Search (Fuzzy + Instant) Across App Pages
+
+Bookmark/Save Feature with LocalStorage Sync + Remote Fallback
+
+Dynamic Language Switcher with Context + i18n
+
+Theming System with Persisted Context + SCSS Token Switch
+
+Socket-based Live Feed with Offline Caching + Reconnect Logic
+
+Undo/Redo Logic for Any Form or Editor
+
+State Sync Between Tabs via BroadcastChannel API
+
+Split-View Code Editor with Syntax Highlighting
+
+🔐 21–30: Auth, Security, Access Control (RBAC)
+OAuth Login Flow UI (Google/GitHub) with Expired Token Handling
+
+Role-Based Access UI – Dynamically Render Routes & Actions
+
+Permission Matrix Table with Checkbox Grid Logic
+
+Magic Link Auth UI with Expiration Timer
+
+Admin Impersonation UI with “Return to Admin” Handling
+
+Session Timeout Warning Modal with Extend Option
+
+Secure Logout Flow with Cleanup + API Notification
+
+Multi-tenant Dashboard Routing (Subdomain-based UI Loader)
+
+2FA Modal with Backup Codes and QR Code Scanner
+
+Access Denied Screens with Role Awareness
+
+📊 31–40: Data-Intensive, Charting, and Performance UI
+Dashboard with Real-Time Updating Charts (Polling/Sockets)
+
+Pivot Table UI like Excel (Drag Columns/Rows/Values)
+
+Data Grid with Conditional Formatting & Cell Editors
+
+High-volume List Rendering with react-window or react-virtual
+
+Chart.js/D3.js Integration with Filters & Export
+
+Timeline Feed with Lazy-loading Events Grouped by Date
+
+Interactive Heatmap (Calendar-style like GitHub commits)
+
+Live Log Viewer with Auto-scroll & Filters
+
+Geo Map with Clickable Regions + Data Overlay
+
+Multi-Series Time Series Chart with Zoom/Pan
+
+🧩 41–50: App Logic, Routing, Multi-Page Dynamics
+Dynamic App Builder UI (Load Different UIs via Config)
+
+Nested Layouts with React Router v6 (like Next.js style)
+
+Deep-linkable Modal Routing (URL Sync)
+
+Step-based Flow with Skippable/Conditional Steps
+
+Dynamic Breadcrumb Generator Based on Route Tree
+
+Searchable Settings Page with Scroll-to and Toggle
+
+Route-level Error & Loading Boundaries (Suspense + ErrorBoundary)
+
+Custom Hook to Track Previous Page + Navigation Events
+
+Fullscreen Presentation Mode Toggle via Route Query
+
+Multi-language Routing (Slug Translation + Sync)
+
+🔧 51–60: Dev Tools, Testing, Forms, Animations
+Custom React Profiler UI (Track Re-renders per Component)
+
+Mock API Interceptor Tool (Like Mock Service Worker UI)
+
+Form Autofill Recorder + Replayer for Testing UX
+
+Editable JSON View/Editor Component
+
+Component Snapshot Tester with Visual Diff Output
+
+Form Wizard with Persisted Drafts per Step
+
+Animated Loading Skeletons with Pulse Variants
+
+SVG Icon System with Lazy-loading Packs
+
+Custom useAsync Hook with Retry, Loading, Error, Timeout
+
+Live Theme Editor (Change Colors, Fonts via UI + Save)
+
+🌍 61–70: Pro-Level Product Features (Inspired by Top Startups)
+Slack-style Mention System in Textarea
+
+Figma-like Multi-user Cursor UI via WebSockets
+
+Trello-style Card Sorting with Column Constraints
+
+Notion-style Block Editor with Drag, Delete, Nest
+
+Real-time Collaborative Text Editor
+
+Stripe Dashboard Clone UI (Tables, Filters, Modals)
+
+Airtable-style Editable Grid with Dynamic Columns
+
+Voice Command Navigation in App (Speech-to-Action)
+
+Live Comment System with Threads & Reactions
+
+Real-time Story Builder like Medium with Version Control
+Testing (Jest + RTL) – 5 Questions
+Write Tests for Async Form Submission with loading spinner and error fallback.
+
+Test Component Using Context + Hooks (mock context and verify state changes).
+
+Mock API Call in Tests using msw or jest-fetch-mock and assert UI changes.
+
+Test a Custom Hook (useDebounce) behavior with time-based logic.
+
+Snapshot vs RTL – Build a toggleable UI and write snapshot + behavioral tests both.
+
+🔌 Micro-Frontends (Module Federation) – 3 Questions
+Create Two React Apps Sharing a Component via Module Federation.
+
+Trigger Event in App A, React in App B (using Pub/Sub or shared state).
+
+Inject Versioned Remote Module Dynamically (support version mismatch handling).
+
+⚛️ React 18+ Suspense/Concurrent UI – 5 Questions
+Use useTransition in Large List Filter to show loading spinner only during transitions.
+
+Build a Suspense + ErrorBoundary Combo for async user profile loading.
+
+Create SuspenseList for Nested Route Pages (React Router + lazy).
+
+Concurrent UI Loading Placeholder vs Fallback – differentiate UI loading flows.
+
+Fetch-on-render with Suspense and React Query
+
+📦 Performance Tuning – 5 Questions
+Memoize a Graph Component to Prevent Rerenders using React.memo, useMemo.
+
+Find and Fix Rerender Explosion in a large component tree.
+
+Simulate Memory Leak and Patch It using cleanup logic in hooks.
+
+Profile React App Using Profiler API and reduce wasted renders.
+
+Code-Split Route + Component with Preloading Strategy
+
+🧠 Custom Hooks – 6 Questions
+useThrottle Hook – Create it and use it in a search input.
+
+useInterval Hook with auto cleanup and dynamic delay update.
+
+useOnClickOutside Hook for modals or dropdowns.
+
+useInfiniteScroll Hook – Trigger API fetch when bottom reaches.
+
+useUndoRedo Hook – For form or text editor state.
+
+useFetch Hook with caching and abort controller support.
+
+🧊 React Native/React Native Web (Optional) – 3 Questions
+Build a To-Do Screen in React Native Web with swipe to delete.
+
+Responsive Nav Drawer using React Native Web + TailwindCSS.
+
+Create a Tab View Component (like Instagram) with dynamic screen height.
