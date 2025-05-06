@@ -1,6 +1,10 @@
 ✅ 50 Easy-Level React Machine Coding Questions (High Quality – Training Arc Edition)
+
+
+
 🔹 Set 1: Fundamentals of State, Props, JSX, Basic Logic
-Click Counter with Limits – Increment/Decrement with min/max boundaries
+
+✅ Click Counter with Limits – Increment/Decrement with min/max boundaries
 
 Like/Unlike Toggle Button – Change icon + count
 
@@ -19,6 +23,8 @@ Live Character Counter – Textarea with limit and color change if overflow
 Checkbox Group Counter – Show how many boxes are selected
 
 Search Filter (Local List) – Filter list based on input text (case-insensitive)
+
+
 
 🔹 Set 2: Forms, Controlled Components, Input Handling
 Login Form with Inline Validation – Email + password + validation messages
@@ -40,6 +46,8 @@ Multi-step Form (3 steps) – Basic stepper without routing
 Color Picker with Preview Box
 
 Age Calculator – Select DOB → show current age
+
+
 
 🔹 Set 3: Lists, Keys, Basic Mapping, Conditional Rendering
 Simple Contact List with Search
