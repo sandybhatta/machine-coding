@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       {/* <UserCard fullname={"sandip bhatt"} bio={"asvhjsdajfvsdaujvfadsjvndsjvhgckgtkugtuktgcuktuktutgutuktututlhlhlhvjhvlhvlhvhvkhvhvkhvil;hyhki;khihyiylhblkhihiyfyrdufutfutfuyflvuhyluylulugvuguguyvuhvguhvuvuvh"} email={"sandip#209"}/> */}
-      <LimitCounter min={0} max={5}/>
+      <LimitCounter min={0} max={45} step={0.1}/>
 
     </div>
   )
