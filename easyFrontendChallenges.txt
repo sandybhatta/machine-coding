@@ -4,7 +4,14 @@
 
 🔹 Set 1: Fundamentals of State, Props, JSX, Basic Logic
 
-✅ Click Counter with Limits – Increment/Decrement with min/max boundaries
+1> (core)✅ Click Counter with Limits – Increment/Decrement with min/max boundaries
+🏋
+variant of(1) ---> Create a LimitCounter component. When the user presses and holds the + button, the count increases continuously until max.
+When the user presses and holds the - button, the count decreases continuously until min. As soon as the user releases the mouse button or leaves the button area, it stops increasing or decreasing.
+
+
+
+
 
 Like/Unlike Toggle Button – Change icon + count
 
