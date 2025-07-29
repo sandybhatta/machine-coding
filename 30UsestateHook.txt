@@ -1,0 +1,123 @@
+✅ 30 High-Quality useState Problems (From Beginner to Advanced)
+🔹 Basic Level (1–10)
+Counter with Step Increment
+
+Build a counter that increases by a custom step value (e.g. +2, +5) which the user sets through an input.
+
+Dynamic Button Text
+
+Toggle button text between "Start" and "Stop" each time the button is clicked.
+
+Form Input Echo
+
+Display what the user types into an input field live below it. Also show character count.
+
+Text Transformer
+
+Convert input text to uppercase/lowercase in real-time as the user types.
+
+Multiple Counters
+
+Render three counters. Each has its own state and behaves independently.
+
+Disable Button After Click
+
+A button that, once clicked, becomes disabled and changes text to "Submitted".
+
+Show/Hide Password
+
+Toggle input field type between password and text on button click.
+
+Two-Way Binding
+
+Create a form with fields for name and email, and reflect the data live as a card preview.
+
+Color Picker
+
+Clicking on different color buttons (e.g. red, blue, green) changes the background color of a box.
+
+Simple Tab Switcher
+
+Clicking on "Tab 1", "Tab 2", or "Tab 3" shows different text below.
+
+🔹 Intermediate Level (11–20)
+Todo List (Add + Delete Only)
+
+Create a list where you can add new items and remove them. No complex logic—just use useState.
+
+Like System with Count
+
+Implement a like button that toggles between liked/unliked and updates a like counter.
+
+Character Limit Input
+
+An input field that prevents typing after 20 characters and shows a warning message.
+
+Emoji Mood Selector
+
+Select mood by clicking emojis (😄 😐 😢), and highlight the selected one.
+
+Simple Calculator (No Eval)
+
+Two inputs and four buttons (+, −, ×, ÷) to perform operations and show result.
+
+Image Toggle Gallery
+
+Clicking on thumbnails changes the main image (use state to track selected image index).
+
+Multiple Checkboxes (Toggle State)
+
+A list of items with checkboxes. Clicking toggles selection and shows selected items below.
+
+Dark Mode Toggle
+
+Toggle light/dark mode by updating CSS class based on state.
+
+Accordion (Single Open Panel)
+
+Click to open one panel at a time. Only one panel can be open.
+
+List Shuffler
+
+Randomly shuffle an array of names when a button is clicked.
+
+🔹 Advanced Level (21–30)
+Dynamic Form Fields
+
+Add new input fields dynamically on button click. Show all field values in real-time.
+
+Undo/Redo Button State
+
+Maintain a counter with Undo/Redo functionality using state stack logic.
+
+Rating System (1–5 stars)
+
+Implement a star rating system using only useState.
+
+Simulated Typing
+
+A button adds one character from a predefined sentence each time it's clicked.
+
+Keyboard Input Tracker
+
+Press keys and show last key pressed (using only onChange / onKeyDown with state).
+
+Filterable List (By Letter)
+
+Type a letter and filter a list of items based on whether they include that letter.
+
+Multi-Step Form
+
+Move between 3 steps (Basic Info → Address → Review) while keeping entered data in state.
+
+Word Counter with Color Warning
+
+Textarea that changes color if word count exceeds 100.
+
+Progress Bar
+
+Button click increases progress bar by 10% until it reaches 100%.
+
+Custom Toggle Switch Component
+
+Create a custom switch (like a mobile toggle) that tracks on/off state and animates via CSS.

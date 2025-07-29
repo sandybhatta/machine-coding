@@ -9,9 +9,13 @@ const FixedExample = () => {
   }, [count]);
 
   useEffect(() => {
-    setTimeout(() => {
-      alert(`Count is: ${countRef.current}`); // always the latest
-    }, 3000);
+    let id=setTimeout(() => {
+      alert(`Count is: ${count}`);
+       // always the latest  
+    }, 5000);
+
+
+    return ()=>clearTimeout(id)
   },[count]);
 
   return (
