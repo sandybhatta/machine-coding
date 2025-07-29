@@ -1,4 +1,7 @@
 import React from 'react'
+import InputEcho from './useStateHookPrac/InputEcho'
+import ShowHidePass from './useStateHookPrac/ShowHidePass'
+import TwoWayBinding from './useStateHookPrac/TwoWayBinding'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -33,9 +36,9 @@ const App = () => {
               {/* 1. <CounterStep /> */}
               {/* 2. <ToggleButton/> */}
 
-
-
-
+              {/* 3. <InputEcho /> */}
+               {/*4. <ShowHidePass/> */}
+                <TwoWayBinding/>
 
 
 
