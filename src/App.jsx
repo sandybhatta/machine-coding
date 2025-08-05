@@ -1,7 +1,9 @@
 import React from 'react'
-import InputEcho from './useStateHookPrac/InputEcho'
-import ShowHidePass from './useStateHookPrac/ShowHidePass'
-import TwoWayBinding from './useStateHookPrac/TwoWayBinding'
+// import InputEcho from './useStateHookPrac/InputEcho'
+// import ShowHidePass from './useStateHookPrac/ShowHidePass'
+// import TwoWayBinding from './useStateHookPrac/TwoWayBinding'
+// import ColorPicker from './useStateHookPrac/ColorPicker'
+import TabSwitcher from './useStateHookPrac/TabSwitcher'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -38,12 +40,12 @@ const App = () => {
 
               {/* 3. <InputEcho /> */}
                {/*4. <ShowHidePass/> */}
-                <TwoWayBinding/>
+                {/*5. <TwoWayBinding/> */}
+
+                {/*6. <ColorPicker/> */}
 
 
-
-
-
+                <TabSwitcher/>
 
 
 

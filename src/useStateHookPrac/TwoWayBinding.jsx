@@ -10,8 +10,10 @@ const TwoWayBinding = () => {
 
     const handleChange = (e)=>{
         const{name, value} = e.target
+
         setFormData({
-            name:value
+            ...formData,
+            [name]:value
         })
     }
   return (
@@ -23,13 +25,13 @@ const TwoWayBinding = () => {
         />
 
         <input 
-        type='email'
+        type='text'
         value={formData.email}
         name='email'
         onChange={handleChange}/>
 
         <div>
-            user written data
+            user written data  :  
             {formData.name}
             {formData.email}
         </div>
