@@ -3,9 +3,10 @@ import React from 'react'
 // import ShowHidePass from './useStateHookPrac/ShowHidePass'
 // import TwoWayBinding from './useStateHookPrac/TwoWayBinding'
 // import ColorPicker from './useStateHookPrac/ColorPicker'
-import TabSwitcher from './useStateHookPrac/TabSwitcher'
-import ToDo from './useStateHookPrac/ToDo'
-import MiniCart from './useStateHookPrac/MiniCart'
+// import TabSwitcher from './useStateHookPrac/TabSwitcher'
+// import ToDo from './useStateHookPrac/ToDo'
+// import MiniCart from './useStateHookPrac/MiniCart'
+import PollVoting from './useStateHookPrac/PollVoting'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -51,9 +52,9 @@ const App = () => {
 
                   {/* 8. <ToDo/> */}
 
-                  <MiniCart/>
+                  {/* <MiniCart/> */}
 
-
+                  <PollVoting/>
 
 
 
