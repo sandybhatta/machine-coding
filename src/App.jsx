@@ -5,6 +5,7 @@ import React from 'react'
 // import ColorPicker from './useStateHookPrac/ColorPicker'
 import TabSwitcher from './useStateHookPrac/TabSwitcher'
 import ToDo from './useStateHookPrac/ToDo'
+import MiniCart from './useStateHookPrac/MiniCart'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -46,11 +47,11 @@ const App = () => {
                 {/*6. <ColorPicker/> */}
 
 
-                {/* <TabSwitcher/> */}
+                {/* 7. <TabSwitcher/> */}
 
-                  <ToDo/>
+                  {/* 8. <ToDo/> */}
 
-
+                  <MiniCart/>
 
 
 
