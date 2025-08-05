@@ -7,6 +7,7 @@ import React from 'react'
 // import ToDo from './useStateHookPrac/ToDo'
 // import MiniCart from './useStateHookPrac/MiniCart'
 import PollVoting from './useStateHookPrac/PollVoting'
+import MultiStepForm from './useStateHookPrac/MultiStepForm'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -54,8 +55,8 @@ const App = () => {
 
                   {/* <MiniCart/> */}
 
-                  <PollVoting/>
-
+                  {/* <PollVoting/> */}
+                  <MultiStepForm/>
 
 
 
