@@ -8,6 +8,7 @@ import React from 'react'
 // import MiniCart from './useStateHookPrac/MiniCart'
 import PollVoting from './useStateHookPrac/PollVoting'
 import MultiStepForm from './useStateHookPrac/MultiStepForm'
+import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -48,6 +49,7 @@ const App = () => {
 
                 {/*6. <ColorPicker/> */}
 
+  {/* ----------------Advanced useState practice--------------------------  */}
 
                 {/* 7. <TabSwitcher/> */}
 
@@ -56,8 +58,10 @@ const App = () => {
                   {/* <MiniCart/> */}
 
                   {/* <PollVoting/> */}
-                  <MultiStepForm/>
 
+                  {/* <MultiStepForm/> */}
+
+                  <DragDropSimulator/>
 
 
 
