@@ -1,4 +1,4 @@
-import React from 'react'
+import React , {useState} from 'react'
 // import InputEcho from './useStateHookPrac/InputEcho'
 // import ShowHidePass from './useStateHookPrac/ShowHidePass'
 // import TwoWayBinding from './useStateHookPrac/TwoWayBinding'
@@ -6,9 +6,11 @@ import React from 'react'
 // import TabSwitcher from './useStateHookPrac/TabSwitcher'
 // import ToDo from './useStateHookPrac/ToDo'
 // import MiniCart from './useStateHookPrac/MiniCart'
-import PollVoting from './useStateHookPrac/PollVoting'
-import MultiStepForm from './useStateHookPrac/MultiStepForm'
-import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
+// import PollVoting from './useStateHookPrac/PollVoting'
+// import MultiStepForm from './useStateHookPrac/MultiStepForm'
+// import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
+import LiveClock from './useEffectHookPrac/LiveClock'
+import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -28,6 +30,11 @@ import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
 
 
 const App = () => {
+
+
+
+
+
   return (
     <div>
       {/* <UserCard fullname={"sandip bhatt"} bio={"asvhjsdajfvsdaujvfadsjvndsjvhgckgtkugtuktgcuktuktutgutuktututlhlhlhvjhvlhvlhvhvkhvhvkhvil;hyhki;khihyiylhblkhihiyfyrdufutfutfuyflvuhyluylulugvuguguyvuhvguhvuvuvh"} email={"sandip#209"}/> */}
@@ -61,9 +68,14 @@ const App = () => {
 
                   {/* <MultiStepForm/> */}
 
-                  <DragDropSimulator/>
+                  {/* <DragDropSimulator/> */}
 
 
+{/* --------------------  useEffect Hook practice----------------------- */}
+
+
+ {/* <LiveClock /> */}
+<AutoSaveDarft/>
 
 
     </div>
