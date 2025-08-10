@@ -11,6 +11,7 @@ import React , {useState} from 'react'
 // import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
 import LiveClock from './useEffectHookPrac/LiveClock'
 import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
+import WindowResizeTracker from './useEffectHookPrac/WindowResizeTracker'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -75,7 +76,128 @@ const App = () => {
 
 
  {/* <LiveClock /> */}
-<AutoSaveDarft/>
+{/* <AutoSaveDarft/> */}
+<WindowResizeTracker/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     </div>
