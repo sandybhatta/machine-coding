@@ -12,6 +12,7 @@ import React , {useState} from 'react'
 import LiveClock from './useEffectHookPrac/LiveClock'
 import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
 import WindowResizeTracker from './useEffectHookPrac/WindowResizeTracker'
+import FormWizard from './useReducerHookPrac/FormWizard/FormWizard'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -85,7 +86,7 @@ const App = () => {
 
 
 
-
+<FormWizard/>
 
 
 
