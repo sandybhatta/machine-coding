@@ -16,6 +16,7 @@ import FormWizard from './useReducerHookPrac/FormWizard/FormWizard'
 import FormWizardWithMultipleComponent from './useReducerHookPrac/FormWizard/FormWizardWithMultipleComponent'
 import UseReducer2 from './useReducerHookPrac/UseReducer2'
 import UndoRedoEditor from './useReducerHookPrac/UndoRedoEditor'
+import ShoppingCart from './useReducerHookPrac/ShoppingCart'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -92,8 +93,8 @@ const App = () => {
 {/* <FormWizard/> */}
 {/* <FormWizardWithMultipleComponent/> */}
 {/* <UseReducer2/> */}
-<UndoRedoEditor/>
-
+{/* <UndoRedoEditor/> */}
+<ShoppingCart/>
 
 
 
