@@ -13,6 +13,9 @@ import LiveClock from './useEffectHookPrac/LiveClock'
 import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
 import WindowResizeTracker from './useEffectHookPrac/WindowResizeTracker'
 import FormWizard from './useReducerHookPrac/FormWizard/FormWizard'
+import FormWizardWithMultipleComponent from './useReducerHookPrac/FormWizard/FormWizardWithMultipleComponent'
+import UseReducer2 from './useReducerHookPrac/UseReducer2'
+import UndoRedoEditor from './useReducerHookPrac/UndoRedoEditor'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -86,7 +89,10 @@ const App = () => {
 
 
 
-<FormWizard/>
+{/* <FormWizard/> */}
+{/* <FormWizardWithMultipleComponent/> */}
+{/* <UseReducer2/> */}
+<UndoRedoEditor/>
 
 
 
