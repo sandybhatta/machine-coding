@@ -9,14 +9,17 @@ import React , {useState} from 'react'
 // import PollVoting from './useStateHookPrac/PollVoting'
 // import MultiStepForm from './useStateHookPrac/MultiStepForm'
 // import DragDropSimulator from './useStateHookPrac/DragDropSimulator'
-import LiveClock from './useEffectHookPrac/LiveClock'
-import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
-import WindowResizeTracker from './useEffectHookPrac/WindowResizeTracker'
-import FormWizard from './useReducerHookPrac/FormWizard/FormWizard'
-import FormWizardWithMultipleComponent from './useReducerHookPrac/FormWizard/FormWizardWithMultipleComponent'
-import UseReducer2 from './useReducerHookPrac/UseReducer2'
-import UndoRedoEditor from './useReducerHookPrac/UndoRedoEditor'
-import ShoppingCart from './useReducerHookPrac/ShoppingCart'
+// import LiveClock from './useEffectHookPrac/LiveClock'
+// import AutoSaveDarft from './useEffectHookPrac/AutoSaveDarft'
+// import WindowResizeTracker from './useEffectHookPrac/WindowResizeTracker'
+// import FormWizard from './useReducerHookPrac/FormWizard/FormWizard'
+// import FormWizardWithMultipleComponent from './useReducerHookPrac/FormWizard/FormWizardWithMultipleComponent'
+// import UseReducer2 from './useReducerHookPrac/UseReducer2'
+// import UndoRedoEditor from './useReducerHookPrac/UndoRedoEditor'
+// import ShoppingCart from './useReducerHookPrac/ShoppingCart'
+import Counter from './useRefHook/Counter'
+import RadioExample from './RadioExample'
+import QuizGameEngine from './useReducerHookPrac/QuizGameEngine'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -94,8 +97,10 @@ const App = () => {
 {/* <FormWizardWithMultipleComponent/> */}
 {/* <UseReducer2/> */}
 {/* <UndoRedoEditor/> */}
-<ShoppingCart/>
-
+{/* <ShoppingCart/> */}
+{/* <Counter/> */}
+{/* <RadioExample/> */}
+<QuizGameEngine/>
 
 
 
