@@ -20,6 +20,7 @@ import React , {useState} from 'react'
 import Counter from './useRefHook/Counter'
 import RadioExample from './RadioExample'
 import QuizGameEngine from './useReducerHookPrac/QuizGameEngine'
+import OTPForm from './useRefHook/OTPForm'
 // import ToggleButton from './useStateHookPrac/ToggleButton'
 // import UserCard from './MachineCodingComp/UserCard'
 // import LimitCounter from './EasyComponents/LimitCounter'
@@ -100,9 +101,9 @@ const App = () => {
 {/* <ShoppingCart/> */}
 {/* <Counter/> */}
 {/* <RadioExample/> */}
-<QuizGameEngine/>
+{/* <QuizGameEngine/> */}
 
-
+<OTPForm/>
 
 
 
